@@ -93,10 +93,11 @@ Proyek ini tidak hanya menunjukkan kemampuan saya dalam menulis kueri SQL, tetap
 
 Saya bangga telah menyelesaikan kursus ini dan mendapatkan sertifikasi dari Udemy. Ini adalah tonggak penting dalam perjalanan saya di bidang analisis data dan database.
 
-*(Anda bisa menambahkan link ke sertifikat Anda di sini jika belum ada di tempat lain di README.)*
+![Udemy Certificate - SQL Masterclass](https://udemy-certificate.s3.amazonaws.com/image/UC-9523a2f1-28ef-4d1d-a346-7ba509508797.jpg)
 
 ---
 
 ## 👋 **Mari Terhubung!**
 
 Saya terbuka untuk umpan balik, kolaborasi, dan diskusi seputar SQL dan analisis data. Jangan ragu untuk menghubungi saya!
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn:%20Nur%20Fatih%20Alam-0A66C2?logo=logmein&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/nurfatihalam/)
