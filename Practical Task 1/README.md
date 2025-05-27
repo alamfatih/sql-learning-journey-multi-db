@@ -4,8 +4,6 @@ Selamat datang di repositori `Practical Task 1`! Proyek ini mendokumentasikan pe
 
 Dataset yang digunakan berasal dari sebuah kursus masterclass SQL dan berfokus pada berbagai aspek data siswa, termasuk nilai akademik, aspirasi karir, dan data demografis lainnya. Proyek ini adalah bagian dari komitmen saya untuk menguasai SQL lintas berbagai platform database, yang telah saya capai dengan sertifikasi dari Udemy.
 
-🔗 **Link Dataset (Google Drive):** [Student Dataset](https://drive.google.com/file/d/1ceciC5wagE8EZo-IRTIvq2TEzDav1NYD/view?usp=sharing)
-
 ---
 
 ## ✨ Apa yang Akan Anda Temukan di Sini?
@@ -44,12 +42,12 @@ Berikut adalah daftar pertanyaan kunci yang dieksplorasi dalam proyek ini, menun
 ## 🛠️ Tools & Technologies:
 
 * **SQL (PostgreSQL):** Dialek SQL utama yang digunakan untuk kueri.
-* **Dataset:** Disimpan di Google Drive, tersedia untuk diakses.
+* **Dataset:** Dataset yang digunakan untuk analisis dapat ditemukan di dalam folder `data/` di repositori ini.
 
 ---
 
 ## 🚀 Mari Jelajahi Kodenya!
 
-Setiap tugas analisis diimplementasikan dalam file SQL terpisah, dengan komentar yang jelas untuk menjelaskan logika di balik setiap kueri. Anda dapat menemukan file-file SQL ini di dalam repositori ini, diorganisir dengan rapi (misalnya, di folder `sql_solutions/`).
+Setiap tugas analisis diimplementasikan dalam file SQL terpisah, dengan komentar yang jelas untuk menjelaskan logika di balik setiap kueri. Anda dapat menemukan file-file SQL ini di dalam repositori ini, diorganisir dengan rapi di dalam folder `queries/`.
 
 Jangan ragu untuk menjelajahi, memberikan saran, atau bahkan menggunakannya sebagai referensi untuk proyek Anda sendiri!
