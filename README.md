@@ -27,39 +27,39 @@ Kursus ini terstruktur secara sistematis, mencakup berbagai topik penting yang d
 
 ### **Bagian A: Dasar & Persiapan**
 
-* Section 1: Introduction [cite: 1]
-* Section 2: Course Resource [cite: 1]
-* Section 3: Setting up PostgreSQL and PGAdmin [cite: 1]
-* Section 4: Installing MySQL [cite: 1]
-* Section 5: Installing MS SQL [cite: 1]
-* Section 6: Installing Oracle SQL [cite: 1]
+* Section 1: Introduction
+* Section 2: Course Resource
+* Section 3: Setting up PostgreSQL and PGAdmin
+* Section 4: Installing MySQL
+* Section 5: Installing MS SQL
+* Section 6: Installing Oracle SQL
 
 ### **Bagian B: Fundamental SQL & Operasi Dasar**
 
-* Section 7: Fundamental SQL Statements [cite: 1]
-* Section 8: Restore and Back-up in PostgreSQL [cite: 1]
-* Section 9: Restore and Back-up in MySQL [cite: 1]
-* Section 10: Restore and Back-up in MS SQL [cite: 1]
-* Section 11: Creating Db using CSV files in Oracle SQL [cite: 1]
-* Section 12: Selection commands: Filtering [cite: 1]
-* Section 13: Selection commands: Ordering [cite: 1]
-* Section 14: Aliases [cite: 2]
-* Section 15: Aggregate Commands [cite: 2]
-* Section 16: Group By Commands [cite: 2]
-* Section 17: Conditional Statement [cite: 2]
+* Section 7: Fundamental SQL Statements
+* Section 8: Restore and Back-up in PostgreSQL
+* Section 9: Restore and Back-up in MySQL
+* Section 10: Restore and Back-up in MS SQL
+* Section 11: Creating Db using CSV files in Oracle SQL
+* Section 12: Selection commands: Filtering
+* Section 13: Selection commands: Ordering
+* Section 14: Aliases
+* Section 15: Aggregate Commands
+* Section 16: Group By Commands
+* Section 17: Conditional Statement
 
 ### **Bagian C: Lanjutan & Analisis Data**
 
-* Section 18: JOINS [cite: 2]
-* Section 19: Subqueries [cite: 2]
-* Section 20: Fun way to practice SQL [cite: 2]
-* Section 21: Views and Indexes [cite: 2]
-* Section 22: String Functions [cite: 2]
-* Section 23: Mathematical Functions [cite: 2]
-* Section 24: Date-Time Functions [cite: 2]
-* Section 25: Data type conversion [cite: 2]
-* Section 26: PATTERN (STRING) MATCHING [cite: 2]
-* Section 27: Conclusion [cite: 2]
+* Section 18: JOINS
+* Section 19: Subqueries
+* Section 20: Fun way to practice SQL
+* Section 21: Views and Indexes
+* Section 22: String Functions
+* Section 23: Mathematical Functions
+* Section 24: Date-Time Functions
+* Section 25: Data type conversion
+* Section 26: PATTERN (STRING) MATCHING
+* Section 27: Conclusion
 
 ---
 
