@@ -77,7 +77,7 @@ Repositori ini diatur dengan rapi untuk memudahkan navigasi dan eksplorasi.
     * `Isi Folder Practical Task 1: Folder: data, Folder: queries, Folder: queries output`
     * *Ini adalah folder untuk proyek studi kasus atau tugas praktis yang lebih besar, dengan data, skrip kueri, dan hasil.*
 * `Folder: Practical Task 2`
-    * `Isi Folder Practical Task 1: Folder: data, Folder: queries, Folder: queries output`
+    * `Isi Folder Practical Task 2: Folder: data, Folder: queries, Folder: queries output`
     * *Ini adalah folder untuk proyek studi kasus atau tugas praktis yang lebih besar, dengan data, skrip kueri, dan hasil.*
 
 ---
