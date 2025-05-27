@@ -99,5 +99,5 @@ Saya bangga telah menyelesaikan kursus ini dan mendapatkan sertifikasi dari Udem
 
 ## 👋 **Mari Terhubung!**
 
-Saya terbuka untuk umpan balik, kolaborasi, dan diskusi seputar SQL dan analisis data. Jangan ragu untuk menghubungi saya!
+Saya terbuka untuk umpan balik, kolaborasi, dan diskusi seputar SQL dan analisis data. Jangan ragu untuk menghubungi saya!<br>
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn:%20Nur%20Fatih%20Alam-0A66C2?logo=logmein&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/nurfatihalam/)
