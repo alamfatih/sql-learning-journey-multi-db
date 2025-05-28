@@ -71,18 +71,12 @@ sql-learning-journey-multi-db/
 ├── Coding Exercise/
 │   ├── exercise_01_select_statement.sql
 │   ├── exercise_02_distinct_grades.sql
-│   ├── exercise_03_where_clause.sql
-│   ├── exercise_04_logical_operators.sql
-│   ├── exercise_05_update_command.sql
 │   ├── ...
 │   └── exercise_46_pattern_matching_basics.sql
 │
 ├── Exercise/
 │   ├── exercise_01_create_db_table.sql
 │   ├── exercise_02_insert_data.sql
-│   ├── exercise_03_select_queries.sql
-│   ├── exercise_04_dml_ddl_commands.sql
-│   ├── exercise_05_backup_restore_sql_part.sql
 │   ├── ...
 │   └── exercise_16_regex_and_data_validation.sql
 │
@@ -93,17 +87,11 @@ sql-learning-journey-multi-db/
 │   │   ├── 00_create_table_student_scores.sql
 │   │   ├── 01_analyze_avg_math_score_by_career.sql
 │   │   ├── 02_find_career_aspirations_avg_english_score.sql
-│   │   ├── 03_identify_students_above_avg_math.sql
-│   │   ├── 04_rank_students_by_physics_score.sql
-│   │   ├── 05_create_fullname_filter_email.sql
 │   │   ├── ...
 │   │   └── 10_students_multi_subject_score.sql
 │   ├── queries output/
 │   │   ├── 01_output_analyze_avg_math_score_by_career.csv
 │   │   ├── 02_output_find_career_aspirations_avg_english_score.csv
-│   │   ├── 03_output_identify_students_above_avg_math.csv
-│   │   ├── 04_output_rank_students_by_physics_score.csv
-│   │   ├── 05_output_create_fullname_filter_email.csv
 │   │   ├── ...
 │   │   └── 10_output_students_multi_subject_score.csv
 │   └── README.md
@@ -115,25 +103,13 @@ sql-learning-journey-multi-db/
 │   │   ├── 00_create_table_coffee_shop_sales.sql
 │   │   ├── 01_top_5_most_frequently_sold_products.sql
 │   │   ├── 02_calculate_total_revenue_jan_2023.sql
-│   │   ├── 03_list_unique_product_types_lower_manhattan.sql
-│   │   ├── 04_calculate_transactions_before_noon.sql
-│   │   ├── 05_average_revenue_peak_non_peak_hours.sql
 │   │   ├── ...
 │   │   └── 10_highest_avg_sales_qty_per_store.sql
 │   ├── queries output/
 │   │   ├── 01_top_5_most_frequently_sold_products.csv
 │   │   ├── 02_calculate_total_revenue_jan_2023.csv
-│   │   ├── 03_list_unique_product_types_lower_manhattan.csv
-│   │   ├── 04_calculate_transactions_before_noon.csv
-│   │   ├── 05_average_revenue_peak_non_peak_hours.csv
 │   │   ├── ...
 │   │   └── 10_highest_avg_sales_qty_per_store.csv
-│   └── README.md
-│
-├── Practical Task 3/
-│   ├── data/
-│   ├── queries/
-│   ├── queries output/
 │   └── README.md
 │
 └── README.md
